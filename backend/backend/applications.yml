@@ -1,0 +1,4 @@
+gemini:
+  api:
+    baseUrl: https://api.gemini.example.com/v1
+    apiKey: YOUR_SECRET_KEY
